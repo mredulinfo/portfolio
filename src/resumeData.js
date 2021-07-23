@@ -1,7 +1,7 @@
 let resumeData = {
     "imagebaseurl":"https://rbhatia46.github.io/",
-    "name": "Rahul Bhatia",
-    "role": "Frontend Developer and Data Scientist",
+    "name": "Md Mredul Sarker",
+    "role": "Web Application Developer",
     "linkedinId":"Your LinkedIn Id",
     "skypeid": "Your skypeid",
     "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
@@ -27,7 +27,7 @@ let resumeData = {
     "website":"https://rbhatia46.github.io",
     "education":[
       {
-        "UniversityName":"The LNM Insitute of Information Technology",
+        "UniversityName":"Manarat International University",
         "specialization":"Some specialization",
         "MonthOfPassing":"Aug",
         "YearOfPassing":"2020",
@@ -43,8 +43,8 @@ let resumeData = {
     ],
     "work":[
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
+        "CompanyName":"3S Corporation",
+        "specialization":"Information & Technology",
         "MonthOfLeaving":"Jan",
         "YearOfLeaving":"2018",
         "Achievements":"Some Achievements"
